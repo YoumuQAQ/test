@@ -1,0 +1,34 @@
+2023-12-26 21:42:23.007 [main] INFO  com.xmut.managementsystem.ManagementSystemApplication.logStarting:51 - Starting ManagementSystemApplication using Java 17.0.6 with PID 22072 (E:\IDEAwowrksapce\ManagementSystem\target\classes started by binary in E:\IDEAwowrksapce\ManagementSystem)
+2023-12-26 21:42:23.010 [main] INFO  com.xmut.managementsystem.ManagementSystemApplication.logStartupProfileInfo:637 - No active profile set, falling back to 1 default profile: "default"
+2023-12-26 21:42:23.527 [main] INFO  o.s.d.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected:291 - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-26 21:42:23.529 [main] INFO  o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:138 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-26 21:42:23.548 [main] INFO  o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:208 - Finished Spring Data repository scanning in 8 ms. Found 0 Redis repository interfaces.
+2023-12-26 21:42:23.955 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 - Tomcat initialized with port(s): 8090 (http)
+2023-12-26 21:42:23.966 [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log:173 - Initializing ProtocolHandler ["http-nio-8090"]
+2023-12-26 21:42:23.967 [main] INFO  org.apache.catalina.core.StandardService.log:173 - Starting service [Tomcat]
+2023-12-26 21:42:23.967 [main] INFO  org.apache.catalina.core.StandardEngine.log:173 - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-12-26 21:42:24.033 [main] INFO  o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 - Initializing Spring embedded WebApplicationContext
+2023-12-26 21:42:24.033 [main] INFO  o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:291 - Root WebApplicationContext: initialization completed in 996 ms
+2023-12-26 21:42:25.265 [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log:173 - Starting ProtocolHandler ["http-nio-8090"]
+2023-12-26 21:42:25.283 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 - Tomcat started on port(s): 8090 (http) with context path ''
+2023-12-26 21:42:25.296 [main] INFO  com.xmut.managementsystem.ManagementSystemApplication.logStarted:57 - Started ManagementSystemApplication in 2.672 seconds (process running for 3.156)
+2023-12-26 21:44:07.196 [main] INFO  com.xmut.managementsystem.ManagementSystemApplication.logStarting:51 - Starting ManagementSystemApplication using Java 17.0.6 with PID 25732 (E:\IDEAwowrksapce\ManagementSystem\target\classes started by binary in E:\IDEAwowrksapce\ManagementSystem)
+2023-12-26 21:44:07.199 [main] INFO  com.xmut.managementsystem.ManagementSystemApplication.logStartupProfileInfo:637 - No active profile set, falling back to 1 default profile: "default"
+2023-12-26 21:44:07.724 [main] INFO  o.s.d.repository.config.RepositoryConfigurationDelegate.multipleStoresDetected:291 - Multiple Spring Data modules found, entering strict repository configuration mode
+2023-12-26 21:44:07.726 [main] INFO  o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:138 - Bootstrapping Spring Data Redis repositories in DEFAULT mode.
+2023-12-26 21:44:07.750 [main] INFO  o.s.d.repository.config.RepositoryConfigurationDelegate.registerRepositoriesIn:208 - Finished Spring Data repository scanning in 8 ms. Found 0 Redis repository interfaces.
+2023-12-26 21:44:08.174 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:108 - Tomcat initialized with port(s): 8090 (http)
+2023-12-26 21:44:08.180 [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log:173 - Initializing ProtocolHandler ["http-nio-8090"]
+2023-12-26 21:44:08.181 [main] INFO  org.apache.catalina.core.StandardService.log:173 - Starting service [Tomcat]
+2023-12-26 21:44:08.181 [main] INFO  org.apache.catalina.core.StandardEngine.log:173 - Starting Servlet engine: [Apache Tomcat/10.1.13]
+2023-12-26 21:44:08.248 [main] INFO  o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 - Initializing Spring embedded WebApplicationContext
+2023-12-26 21:44:08.248 [main] INFO  o.s.b.w.s.context.ServletWebServerApplicationContext.prepareWebApplicationContext:291 - Root WebApplicationContext: initialization completed in 1023 ms
+2023-12-26 21:44:09.425 [main] INFO  org.apache.coyote.http11.Http11NioProtocol.log:173 - Starting ProtocolHandler ["http-nio-8090"]
+2023-12-26 21:44:09.443 [main] INFO  o.s.boot.web.embedded.tomcat.TomcatWebServer.start:220 - Tomcat started on port(s): 8090 (http) with context path ''
+2023-12-26 21:44:09.454 [main] INFO  com.xmut.managementsystem.ManagementSystemApplication.logStarted:57 - Started ManagementSystemApplication in 2.624 seconds (process running for 3.087)
+2023-12-26 21:58:58.680 [http-nio-8090-exec-1] INFO  o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 - Initializing Spring DispatcherServlet 'dispatcherServlet'
+2023-12-26 21:58:58.681 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean:532 - Initializing Servlet 'dispatcherServlet'
+2023-12-26 21:58:58.682 [http-nio-8090-exec-1] INFO  org.springframework.web.servlet.DispatcherServlet.initServletBean:554 - Completed initialization in 1 ms
+2023-12-26 21:59:10.350 [http-nio-8090-exec-2] INFO  com.zaxxer.hikari.HikariDataSource.getConnection:110 - HikariPool-1 - Starting...
+2023-12-26 21:59:10.571 [http-nio-8090-exec-2] INFO  com.zaxxer.hikari.pool.HikariPool.checkFailFast:565 - HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@35281386
+2023-12-26 21:59:10.573 [http-nio-8090-exec-2] INFO  com.zaxxer.hikari.HikariDataSource.getConnection:123 - HikariPool-1 - Start completed.
